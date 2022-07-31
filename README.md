@@ -5,9 +5,6 @@
 <p align="justify"> Recriando a tela de login do jogo League of Legends.</p>
 
 
-![Badge](https://img.shields.io/badge/Riot%20Games-LoL-FF69B4)
-
-
 ### :computer: Demonstração da Aplicação:
 
 - [GitHub Pages](https://edyane.github.io/Login-League-of-Legends/)
