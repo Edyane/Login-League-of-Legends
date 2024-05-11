@@ -11,7 +11,7 @@
 
 ### :computer: Demonstração da Aplicação:
 
-![Login](https://cdn.discordapp.com/attachments/887544607599120404/1003104555325734953/Login.PNG)
+![Login](./preview.png)
 
 <br>
 
